@@ -15,7 +15,7 @@ import java.lang.String.*;
 import java.lang.Object.*;
 
 /**
- * Title: Assignment 2
+ * Title: simpleAdder_GUI
  * Author: Alex Cortes
  * Date: September 16th 2014
  * 
